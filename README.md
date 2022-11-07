@@ -1,2 +1,2 @@
-# Sugandaram_Guvi_Assignment-1_Python
+# Sugandaram_Guvi_Assignment_Python
 DS Python Programs.
